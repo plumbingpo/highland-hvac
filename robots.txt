@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://highlandhvacco.com/sitemap.xml
